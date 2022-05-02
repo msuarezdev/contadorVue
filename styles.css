@@ -1,0 +1,22 @@
+body{
+    background-image: url(./technology-blue-background-free-vector.jpg);
+    background-repeat: no-repeat;
+    height: max-content;
+    width: max-content;
+}
+.container{
+    align-items: center;
+    margin: 2rem;
+}
+.contenedor {
+    max-width: 400px;
+    margin: 5rem auto;
+    height: 5rem;
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+h1, h2{
+    color: rgb(243, 241, 241);
+}
+
